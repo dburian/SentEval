@@ -1,11 +1,23 @@
 # SentEval data and .pyc files
-
+data/downstream/COCO
+data/downstream/CR
+data/downstream/MR
+data/downstream/STS
+data/downstream/SST
+data/downstream/MPQA
+data/downstream/MRPC
+data/downstream/SICK
+data/downstream/SNLI
+data/downstream/SUBJ
+data/downstream/TREC
 
 
 # python
 __pycache__/
 *.py[cod]
 *$py.class
+build/
+*.egg-info/
 
 # log files
 *.log
